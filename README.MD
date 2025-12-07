@@ -1,17 +1,15 @@
-Hi, I'm Pawan (better known as xyz).
+# Pawan | xyzeep
 =============================================================================================================================
 
-### About Me 
-
-I am a Computer Science enthusiast with a deep love for all things related to computers. I am a college student in Nepal, pursuing a degree in CS with a focus on AI.
+I love beautiful software. I love (trying) to write code.
 
 ### What's here?
-* Projects I somehow managed to finish and thought it would be cool to share here.
-* Things I make while I am in college.
+* Stuff I somehow managed to finish
+* more stuff
+
 <hr>
 
-
-[groundbreaking masterpiece](https://xyzeep.netlify.app/)
+[do not click](https://xyzeep.netlify.app/)
 
 ### Tools and Languages
 <p align="left">
@@ -25,3 +23,4 @@ I am a Computer Science enthusiast with a deep love for all things related to co
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
 </p>
+
