@@ -1,16 +1,14 @@
-# Pawan | xyzeep
-
-=============================================================================================================================
+Hi, there!
 
 I love beautiful software. I love (trying) to write code.
 
 ### What's here?
-* Stuff I somehow managed to finish
+* Stuff I somehow manage to finish
 * more stuff
 
-<hr>
-
 [do not click](https://xyzeep.netlify.app/)
+
+<hr>
 
 ### Tools and Languages
 <p align="left">
@@ -24,5 +22,3 @@ I love beautiful software. I love (trying) to write code.
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
 </p>
-
-
