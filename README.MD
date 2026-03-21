@@ -1,23 +1,43 @@
-Hi, there!
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=egg&height=75&section=header&reversal=false&text=github.com/xyzeep&fontSize=24&fontColor=F3F3E2&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=323339"  />
+</div>
 
-I love beautiful software. I love (trying) to write code.
+###
 
-### What's here?
-* Stuff I somehow manage to finish
-* more stuff
+<h1 align="left">Hi, I'm Pawan!</h1>
 
-<hr>
+###
 
-### Tools and Languages
-<p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="vim" width="40" height="40"/> </a>
-</p>
+<p align="left">a CS student who likes writing code (mostly nonsense) and loves getting into Comp Sci rabbit holes.</p>
 
+###
+
+<br clear="both">
+
+<h3 align="left">Current Project- None<br>Learning: C</h3>
+
+###
+
+<h2 align="left">Things I work with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/neovim/57A143" height="40" alt="neovim logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=xyzeep.xyzeep&left_text=x"  />
+</div>
+
+###
