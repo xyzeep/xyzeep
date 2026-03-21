@@ -12,7 +12,6 @@
 
 ###
 
-<br clear="both">
 
 <h3 align="left">Current Project- None<br>Learning: C</h3>
 
