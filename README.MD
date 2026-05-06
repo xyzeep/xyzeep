@@ -13,7 +13,7 @@
 ###
 
 
-<h3 align="left">Currently: busy with college </h3>
+<h3 align="left">Currently: reading about network programming</h3>
 
 ###
 
