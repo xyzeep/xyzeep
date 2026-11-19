@@ -12,11 +12,6 @@
 
 ###
 
-
-<h3 align="left">Currently: reading about network programming</h3>
-
-###
-
 <h2 align="left">Things I work with</h2>
 
 ###
